@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #4338ca;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+.navbar .navbar-brand {
+  color: #fff;
+  font-size: 26px;
+  font-weight: 500;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+  color: #fff;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: #fff;
+  padding: 8px 15px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active {
+  background-color: #000;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  width: fit-content;
+}

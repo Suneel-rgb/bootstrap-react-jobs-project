@@ -1,0 +1,29 @@
+.recent_jobs .card p {
+  font-size: 14px;
+}
+.recent_jobs .card .salary {
+  font-size: 16px;
+}
+.recent_jobs .location .location_name {
+  font-size: 14px;
+}
+
+.recent_jobs .location {
+  color: rgb(255, 64, 30);
+}
+
+.recent_jobs .card h5 {
+  font-weight: 600;
+}
+.less_more_btn {
+  width: fit-content;
+  padding: 0 0;
+  color: #4338ca;
+  outline: none !important;
+  border: 0 !important;
+}
+.less_more_btn:focus,
+.less_more_btn:hover {
+  background-color: transparent;
+  color: #4338ca;
+}
